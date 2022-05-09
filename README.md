@@ -4,7 +4,7 @@ This application shows the list of launches held by SpaceX in past using opensou
 
 <h1 align="center">SpaceX Launch History</h1>
 
-## APIs
+## API
 
 <li><a href="https://api.spacexdata.com/v4/launches/past">https://api.spacexdata.com/v4/launches/past</a></li>
 
